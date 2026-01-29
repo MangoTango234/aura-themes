@@ -10,7 +10,8 @@
       "description": "Timeless lessons on wealth, greed, and happiness",
       "imageCount": 5,
       "bookURL": "https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681",
-      "path": "financial-literacy/the-psychology-of-money"
+      "path": "financial-literacy/the-psychology-of-money",
+      "coverImage": "covers/the-psychology-of-money.jpg"
     },
     {
       "id": "rich-dad-poor-dad",
@@ -20,7 +21,8 @@
       "description": "What the rich teach their kids about money that the poor and middle class do not",
       "imageCount": 3,
       "bookURL": "https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194",
-      "path": "financial-literacy/rich-dad-poor-dad"
+      "path": "financial-literacy/rich-dad-poor-dad",
+      "coverImage": "covers/rich-dad-poor-dad.jpg"
     },
     {
       "id": "intelligent-investor",
@@ -30,7 +32,8 @@
       "description": "The definitive book on value investing",
       "imageCount": 4,
       "bookURL": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661",
-      "path": "financial-literacy/the-intelligent-investor"
+      "path": "financial-literacy/the-intelligent-investor",
+      "coverImage": "covers/the-intelligent-investor.jpg"
     },
     {
       "id": "total-money-makeover",
@@ -40,7 +43,8 @@
       "description": "A proven plan for financial fitness",
       "imageCount": 4,
       "bookURL": "https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277",
-      "path": "financial-literacy/the-total-money-makeover"
+      "path": "financial-literacy/the-total-money-makeover",
+      "coverImage": "covers/the-total-money-makeover.jpg"
     },
     {
       "id": "think-and-grow-rich",
@@ -50,7 +54,8 @@
       "description": "The landmark bestseller on success principles",
       "imageCount": 5,
       "bookURL": "https://www.amazon.com/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331",
-      "path": "financial-literacy/think-and-grow-rich"
+      "path": "financial-literacy/think-and-grow-rich",
+      "coverImage": "covers/think-and-grow-rich.jpg"
     },
     {
       "id": "why-we-sleep",
@@ -60,7 +65,8 @@
       "description": "Unlocking the power of sleep and dreams",
       "imageCount": 4,
       "bookURL": "https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324",
-      "path": "better-health/why-we-sleep"
+      "path": "better-health/why-we-sleep",
+      "coverImage": "covers/why-we-sleep.jpg"
     },
     {
       "id": "atomic-habits",
@@ -70,7 +76,8 @@
       "description": "An easy and proven way to build good habits and break bad ones",
       "imageCount": 3,
       "bookURL": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299",
-      "path": "better-health/atomic-habits"
+      "path": "better-health/atomic-habits",
+      "coverImage": "covers/atomic-habits.jpg"
     },
     {
       "id": "how-not-to-die",
@@ -80,7 +87,8 @@
       "description": "Discover the foods scientifically proven to prevent and reverse disease",
       "imageCount": 5,
       "bookURL": "https://www.amazon.com/How-Not-Die-Discover-Scientifically/dp/1250066115",
-      "path": "better-health/how-not-to-die"
+      "path": "better-health/how-not-to-die",
+      "coverImage": "covers/how-not-to-die.jpg"
     },
     {
       "id": "whole-brain-child",
@@ -90,7 +98,8 @@
       "description": "12 revolutionary strategies to nurture your child's developing mind",
       "imageCount": 3,
       "bookURL": "https://www.amazon.com/Whole-Brain-Child-Revolutionary-Strategies-Developing/dp/0553386697",
-      "path": "parenting/the-whole-brain-child"
+      "path": "parenting/the-whole-brain-child",
+      "coverImage": "covers/the-whole-brain-child.jpg"
     },
     {
       "id": "how-to-talk-so-kids-will-listen",
@@ -100,7 +109,8 @@
       "description": "The ultimate parenting guide for communicating with children",
       "imageCount": 4,
       "bookURL": "https://www.amazon.com/How-Talk-Kids-Will-Listen/dp/1451663889",
-      "path": "parenting/how-to-talk-so-kids-will-listen"
+      "path": "parenting/how-to-talk-so-kids-will-listen",
+      "coverImage": "covers/how-to-talk-so-kids-will-listen.jpg"
     },
     {
       "id": "positive-discipline",
@@ -110,7 +120,8 @@
       "description": "The classic guide to helping children develop self-discipline",
       "imageCount": 5,
       "bookURL": "https://www.amazon.com/Positive-Discipline-Classic-Developing-Self-Discipline/dp/0345487672",
-      "path": "parenting/positive-discipline"
+      "path": "parenting/positive-discipline",
+      "coverImage": "covers/positive-discipline.jpg"
     },
     {
       "id": "no-drama-discipline",
@@ -120,7 +131,8 @@
       "description": "The whole-brain way to calm the chaos and nurture your child's developing mind",
       "imageCount": 3,
       "bookURL": "https://www.amazon.com/No-Drama-Discipline-Whole-Brain-Nurture-Developing/dp/0345548043",
-      "path": "parenting/no-drama-discipline"
+      "path": "parenting/no-drama-discipline",
+      "coverImage": "covers/no-drama-discipline.jpg"
     }
   ]
 }
